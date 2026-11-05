@@ -1,0 +1,1 @@
+.reveal{will-change:transform,opacity}.ripple{animation:ripple 4s ease-in-out infinite}@keyframes ripple{0%,100%{transform:scale(1);opacity:.7}50%{transform:scale(1.06);opacity:1}}

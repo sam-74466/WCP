@@ -1,0 +1,15 @@
+{
+  "name": "Waterproofing Contractors Pune",
+  "short_name": "WCP Pune",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#063B46",
+  "theme_color": "#063B46",
+  "icons": [
+    {
+      "src": "/assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

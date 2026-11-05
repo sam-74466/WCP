@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('[data-whatsapp]').forEach(el=>el.addEventListener('click',()=>{const text=el.getAttribute('data-message')||'Hello, I would like to enquire about waterproofing services.';window.open(window.SITE_CONFIG.whatsapp+'?text='+encodeURIComponent(text),'_blank','noopener')}));});
